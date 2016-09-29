@@ -1,40 +1,42 @@
 # Stendhal
 
+![img](https://github.com/Ruin0x11/Stendhal/blob/master/Other/sample.png)
+
 A modified version of the [Stendhal](https://github.com/tatou-tatou/Themes/tree/master/Stendhal) theme by [tatou-tatou](https://github.com/tatou-tatou) for bspwm, without patched packages.
 
 Various things might be broken, but it shouldn't matter too much if you don't use the mouse interaction a lot.
 
 ## Requirements
-`bspwm`
-`sxhkd`
-`lemonbar`
-`dunst`
-`dmenu2`
-`compton`
-`devmon`
-`amixer`
-`acpi`
-`xinput`
-`clock` (from sutils)
+* `bspwm`
+* `sxhkd`
+* `lemonbar`
+* `dunst`
+* `dmenu2`
+* `compton`
+* `devmon`
+* `amixer`
+* `acpi`
+* `xinput`
+* `clock` (from sutils)
 
 ### Optional
-`scrot` (screenshot hotkey)
-`mpd` (music player)
-`plank` (dock)
-`udevil` (rootless mount/unmount list)
-`setxkbmap` (keyboard layout switching)
-`light` (MacBook screen brightness)
-`kbdlight` (MacBook keyboard lights)
-`feh` (for wallpaper)
-`offlineimap` (mail count)
-`mygtkmenu` (menu when clicking in top-left corner)
+* `scrot` (screenshot hotkey)
+* `mpd` (music player)
+* `plank` (dock)
+* `udevil` (rootless mount/unmount list)
+* `setxkbmap` (keyboard layout switching)
+* `light` (MacBook screen brightness)
+* `kbdlight` (MacBook keyboard lights)
+* `feh` (for wallpaper)
+* `offlineimap` (mail count)
+* `mygtkmenu` (menu when clicking in top-left corner)
 
 ### Replacable
 These are the default programs I set to launch, but they can easily be replaced in the sxhkdrc.
-`urxvt` (with xft font support)
-`emacs`
-`surf`
-`chromium`
+* `urxvt` (with xft font support)
+* `emacs`
+* `surf`
+* `chromium`
 
 ## Installation
 Install the required programs. The optional programs add various useful features.
