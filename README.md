@@ -49,5 +49,7 @@ Place the included `.xinitrc` in your home directory. Set the wallpaper with `fe
 
 Use `Tatou.Xresources` as your `.Xresources` for the terminal theme.
 
+Consult the [original repo](https://github.com/tatou-tatou/Themes/tree/master/Stendhal) for more information/screenshots.
+
 ### Mail Notification
 The mail notification depends on the `mail-sync` and `panel-mail` scripts. Setup `offlineimap` to sync your mail into a Maildir inside the `mail-sync` script, then indicate the directory within `panel-mail`. Up to two mailboxes can be shown by default. The command to run when clicking the notification can also be changed in `panel-mail`.
